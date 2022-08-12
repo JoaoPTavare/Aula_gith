@@ -1,7 +1,1 @@
-int = int(input("digite um número:"))
-
-
-if int < 10:
-print("muito baixo tente algo maior")
-else:
-print("Issso aé mane")
+João Pedro Tavares
