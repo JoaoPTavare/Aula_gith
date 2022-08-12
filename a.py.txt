@@ -1,2 +1,7 @@
 int = int(input("digite um número:"))
-print(int)
+
+
+if int < 10:
+print("muito baixo tente algo maior")
+else:
+print("Issso aé mane")
